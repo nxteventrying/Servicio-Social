@@ -1,0 +1,3 @@
+SeqNo, Year, Month, Day, ms, EventCode, Type, Source, EventID, EventSpecificData
+0,2019,10,17,33034428,192,System,Diagnosis,0,Self Test Event - Results: Current battery level (%) 0 (UNTESTED) Breathing Sensor Test Result 0 (UNTESTED) Accelerometer Test Result 1 (PASS) Logging Memory Test Result 1 (PASS) Bluetooth Module Test Result 0 (UNTESTED) Apple Authentication Test Result 0 (UNTESTED) Reserved for Test 6 0 (UNTESTED) Reserved for Test 7 0 (UNTESTED) Reserved for Test 8 0 (UNTESTED) Reserved for Test 9 0 (UNTESTED) 
+0,2019,10,17,33062052,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True

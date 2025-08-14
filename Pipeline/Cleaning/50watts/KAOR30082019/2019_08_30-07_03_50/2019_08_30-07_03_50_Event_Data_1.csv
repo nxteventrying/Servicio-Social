@@ -1,0 +1,13 @@
+SeqNo, Year, Month, Day, ms, EventCode, Type, Source, EventID, EventSpecificData
+0,2019,08,30,25430438,192,System,Diagnosis,0,Self Test Event - Results: Current battery level (%) 0 (UNTESTED) Breathing Sensor Test Result 0 (UNTESTED) Accelerometer Test Result 1 (PASS) Logging Memory Test Result 1 (PASS) Bluetooth Module Test Result 0 (UNTESTED) Apple Authentication Test Result 0 (UNTESTED) Reserved for Test 6 0 (UNTESTED) Reserved for Test 7 0 (UNTESTED) Reserved for Test 8 0 (UNTESTED) Reserved for Test 9 0 (UNTESTED) 
+0,2019,08,30,25433224,4160,Physiological,WornDetection,0,Worn status changed from   0% to 100%
+0,2019,08,30,25434063,4096,Physiological,RogAlgorithm,0,ROG status change from Invalid to Red.
+0,2019,08,30,25439063,4096,Physiological,RogAlgorithm,0,ROG status change from Red to Green.
+0,2019,08,30,25454063,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,08,30,25463063,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,08,30,25464063,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,08,30,25465063,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,08,30,25467064,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,08,30,27431245,4160,Physiological,WornDetection,0,Worn status changed from 100% to   0%
+0,2019,08,30,27431220,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Invalid.
+0,2019,08,30,27431220,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False

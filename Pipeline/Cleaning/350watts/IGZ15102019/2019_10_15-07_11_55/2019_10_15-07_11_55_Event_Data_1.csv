@@ -1,0 +1,23 @@
+SeqNo, Year, Month, Day, ms, EventCode, Type, Source, EventID, EventSpecificData
+0,2019,10,15,25915435,192,System,Diagnosis,0,Self Test Event - Results: Current battery level (%) 0 (UNTESTED) Breathing Sensor Test Result 0 (UNTESTED) Accelerometer Test Result 1 (PASS) Logging Memory Test Result 1 (PASS) Bluetooth Module Test Result 0 (UNTESTED) Apple Authentication Test Result 0 (UNTESTED) Reserved for Test 6 0 (UNTESTED) Reserved for Test 7 0 (UNTESTED) Reserved for Test 8 0 (UNTESTED) Reserved for Test 9 0 (UNTESTED) 
+0,2019,10,15,25917059,4416,Physiological,DashAlgorithm,0,40 Yard Dash Test Detected - Activity 0.88g
+0,2019,10,15,25935059,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Red.
+0,2019,10,15,25940059,4096,Physiological,RogAlgorithm,0,ROG status change from Red to Green.
+0,2019,10,15,25950060,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,10,15,25973909,4416,Physiological,DashAlgorithm,0,40 Yard Dash Test Detected - Activity 0.31g
+0,2019,10,15,26092150,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Red.
+0,2019,10,15,26104029,4096,Physiological,RogAlgorithm,0,ROG status change from Red to Green.
+0,2019,10,15,26846009,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Orange.
+0,2019,10,15,26850999,4096,Physiological,RogAlgorithm,0,ROG status change from Orange to Green.
+0,2019,10,15,26858889,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Orange.
+0,2019,10,15,26863880,4096,Physiological,RogAlgorithm,0,ROG status change from Orange to Green.
+0,2019,10,15,26875749,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Orange.
+0,2019,10,15,26881749,4096,Physiological,RogAlgorithm,0,ROG status change from Orange to Green.
+0,2019,10,15,26896509,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Orange.
+0,2019,10,15,27005749,4096,Physiological,RogAlgorithm,0,ROG status change from Orange to Green.
+0,2019,10,15,27010749,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Orange.
+0,2019,10,15,27177859,4096,Physiological,RogAlgorithm,0,ROG status change from Orange to Green.
+0,2019,10,15,27183729,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Orange.
+0,2019,10,15,27237860,4096,Physiological,RogAlgorithm,0,ROG status change from Orange to Green.
+0,2019,10,15,27242869,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Orange.
+0,2019,10,15,27308119,4096,Physiological,RogAlgorithm,0,ROG status change from Orange to Green.

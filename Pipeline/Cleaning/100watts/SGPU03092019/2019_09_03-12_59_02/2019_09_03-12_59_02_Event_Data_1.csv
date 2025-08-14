@@ -1,0 +1,53 @@
+SeqNo, Year, Month, Day, ms, EventCode, Type, Source, EventID, EventSpecificData
+0,2019,09,03,46742446,192,System,Diagnosis,0,Self Test Event - Results: Current battery level (%) 0 (UNTESTED) Breathing Sensor Test Result 0 (UNTESTED) Accelerometer Test Result 1 (PASS) Logging Memory Test Result 1 (PASS) Bluetooth Module Test Result 0 (UNTESTED) Apple Authentication Test Result 0 (UNTESTED) Reserved for Test 6 0 (UNTESTED) Reserved for Test 7 0 (UNTESTED) Reserved for Test 8 0 (UNTESTED) Reserved for Test 9 0 (UNTESTED) 
+0,2019,09,03,46760912,4160,Physiological,WornDetection,0,Worn status changed from   0% to 100%
+0,2019,09,03,46761072,4096,Physiological,RogAlgorithm,0,ROG status change from Invalid to Red.
+0,2019,09,03,46773071,4096,Physiological,RogAlgorithm,0,ROG status change from Red to Green.
+0,2019,09,03,46794729,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46796729,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46796479,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46797619,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46798480,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46799479,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46800619,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46801620,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46802480,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46803479,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46804360,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46805359,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46807359,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46808359,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46810359,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46813359,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46816229,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46817229,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46818229,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46819229,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46820229,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46821229,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46822110,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46823109,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46825229,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46827229,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46827109,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46840999,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46841860,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46842000,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46843999,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46903109,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46904109,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46908000,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46910109,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46911109,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46912109,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,46913000,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,46913000,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,47006729,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,47007849,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,47008730,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,47009729,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,47010729,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,09,03,47011729,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,09,03,48800000,4160,Physiological,WornDetection,0,Worn status changed from 100% to   0%
+0,2019,09,03,48800799,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Invalid.
+0,2019,09,03,48800799,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False

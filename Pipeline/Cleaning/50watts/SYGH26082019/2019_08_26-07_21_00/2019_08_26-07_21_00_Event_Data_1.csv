@@ -1,0 +1,21 @@
+SeqNo, Year, Month, Day, ms, EventCode, Type, Source, EventID, EventSpecificData
+0,2019,08,26,26460458,192,System,Diagnosis,0,Self Test Event - Results: Current battery level (%) 0 (UNTESTED) Breathing Sensor Test Result 0 (UNTESTED) Accelerometer Test Result 1 (PASS) Logging Memory Test Result 1 (PASS) Bluetooth Module Test Result 0 (UNTESTED) Apple Authentication Test Result 0 (UNTESTED) Reserved for Test 6 0 (UNTESTED) Reserved for Test 7 0 (UNTESTED) Reserved for Test 8 0 (UNTESTED) Reserved for Test 9 0 (UNTESTED) 
+0,2019,08,26,26467300,4160,Physiological,WornDetection,0,Worn status changed from   0% to 100%
+0,2019,08,26,26467819,4096,Physiological,RogAlgorithm,0,ROG status change from Invalid to Red.
+0,2019,08,26,26472810,4096,Physiological,RogAlgorithm,0,ROG status change from Red to Green.
+0,2019,08,26,26477819,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Red.
+0,2019,08,26,26482439,4096,Physiological,RogAlgorithm,0,ROG status change from Red to Green.
+0,2019,08,26,26488569,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,08,26,26489569,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,08,26,26490569,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,08,26,26491310,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,08,26,26492569,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,08,26,26495440,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,08,26,26498439,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,08,26,26499310,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,08,26,26502439,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,08,26,26503439,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,08,26,26504310,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,08,26,28576960,4160,Physiological,WornDetection,0,Worn status changed from 100% to   0%
+0,2019,08,26,28577759,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Invalid.
+0,2019,08,26,28577759,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False

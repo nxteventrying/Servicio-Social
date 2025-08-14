@@ -1,0 +1,16 @@
+SeqNo, Year, Month, Day, ms, EventCode, Type, Source, EventID, EventSpecificData
+0,2019,10,28,40993682,192,System,Diagnosis,0,Self Test Event - Results: Current battery level (%) 0 (UNTESTED) Breathing Sensor Test Result 0 (UNTESTED) Accelerometer Test Result 1 (PASS) Logging Memory Test Result 1 (PASS) Bluetooth Module Test Result 0 (UNTESTED) Apple Authentication Test Result 0 (UNTESTED) Reserved for Test 6 0 (UNTESTED) Reserved for Test 7 0 (UNTESTED) Reserved for Test 8 0 (UNTESTED) Reserved for Test 9 0 (UNTESTED) 
+0,2019,10,28,41012056,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Red.
+0,2019,10,28,41020056,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,10,28,41021059,4096,Physiological,RogAlgorithm,0,ROG status change from Red to Green.
+0,2019,10,28,41021059,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False
+0,2019,10,28,41022059,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from False to True
+0,2019,10,28,38033920,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Red.
+0,2019,10,28,38039929,4096,Physiological,RogAlgorithm,0,ROG status change from Red to Green.
+0,2019,10,28,38192049,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Red.
+0,2019,10,28,38250409,4096,Physiological,RogAlgorithm,0,ROG status change from Red to Green.
+0,2019,10,28,38258169,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Red.
+0,2019,10,28,38686399,4096,Physiological,RogAlgorithm,0,ROG status change from Red to Green.
+0,2019,10,28,39376917,4160,Physiological,WornDetection,0,Worn status changed from 100% to   0%
+0,2019,10,28,39377130,4096,Physiological,RogAlgorithm,0,ROG status change from Green to Invalid.
+0,2019,10,28,39377130,4224,Physiological,HeartRateCalculation,0,Heart rate Reliable changed from True to False

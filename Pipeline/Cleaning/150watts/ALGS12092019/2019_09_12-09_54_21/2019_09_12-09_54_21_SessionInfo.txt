@@ -1,0 +1,24 @@
+Subject Information
+~~~~~~~~~~~~~~~~~~~
+Team: No Team Allocated
+Name: UNKNOWN
+Gender: UNKNOWN
+Birth Year: UNKNOWN
+ROG Act Min/Max : UNKNOWN
+ROG Resp Min/Max : UNKNOWN
+ROG HR Min/Max : UNKNOWN
+ROG O2R sec / sec : UNKNOWN
+
+Device Information
+~~~~~~~~~~~~~~~~~~
+Serial number: BHT011928
+MAC address: UNKNOWN
+Device Friendly Name: UNKNOWN
+
+Session Information
+~~~~~~~~~~~~~~~~~~~
+Log Format: 0011
+Log Date: jueves, 12 de septiembre de 2019
+Log Time: 09:54:21 a.m.
+Log Duration: 00:34:07
+Page Period(ms): 1000
